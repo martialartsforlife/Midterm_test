@@ -1,3 +1,3 @@
-# About tableau project
+# About Tableau Project
 
 This is my Tableau project
